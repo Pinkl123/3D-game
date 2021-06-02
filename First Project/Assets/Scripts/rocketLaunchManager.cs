@@ -60,7 +60,7 @@ public class rocketLaunchManager : MonoBehaviour
                 transform.Rotate(new Vector3(0, 0, Random.Range(-45.0f, 45.0f)));
                 _currentSpeed = 0;
                 i++;
-                launch = true; //נאםהמלם³י ךמללטע  גפגפ³
+                launch = true; 
             }       
          }
 
